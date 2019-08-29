@@ -1,3 +1,3 @@
 ## AFTI
 
-à complété
+à compléter
