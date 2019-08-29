@@ -49,6 +49,8 @@ sub pluginmain {
 #shift : prends la premiere valeur de @argv
 	my $class = shift;
 	my $hive = shift;
+	
+
 	::logMsg("Launching usbstor v.".$VERSION);
 	::rptMsg("usbstor v.".$VERSION); # banner
   ::rptMsg("(".getHive().") ".getShortDescr()."\n"); # banner
