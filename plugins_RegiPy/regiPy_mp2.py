@@ -1,3 +1,5 @@
+### Python Plugin MountPoint2 for RegiPy
+
 import logbook
 
 from regipy.hive_types import NTUSER_HIVE_TYPE
