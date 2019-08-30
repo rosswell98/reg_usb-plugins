@@ -12,13 +12,14 @@ Disk&Ven_JetFlash&Prod_Transcend_16GB&Rev_1100 [Wed Jun 26 19:34:59 2019]
     """
 
 from regipy.registry import RegistryHive
-reg = RegistryHive('SYSTEM')
 
 print("-------------USBSTOR-----------")
 print("FORENSIC de l'historique des peripheriques USB")
 print("Version 1.0, ATK \n\n")
 
+reg = RegistryHive('SYSTEM')
+
 #for entry in reg.recurse_subkeys(as_json=True):
 #    print(entry)
 
-reg.get_key('SYSTEM\CurrentControlSet001\Enum\USBSTOR').get_values(as_json=True)
+reg.get_key('HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Enum\\USBStor').get_values(as_json=True)
