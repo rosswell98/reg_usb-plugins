@@ -1,0 +1,452 @@
+usbstor v.20141111
+(System) Get USBStor key info
+
+USBStor
+ControlSet001\Enum\USBStor
+
+CdRom&Ven_Linux&Prod_File-CD_Gadget&Rev_0404 [Wed Jun 26 19:34:59 2019]
+  S/N: 7&b3b0b2&0&UEEDU18609002039&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : Linux File-CD Gadget USB Device
+    InstallDate     : Fri Jan  4 17:45:19 2019 UTC
+    FirstInstallDate: Fri Jan  4 17:45:19 2019 UTC
+
+CdRom&Ven_Linux&Prod_File-CD_Gadget&Rev_0409 [Wed Jun 26 19:34:59 2019]
+  S/N: 7&b3b0b2&0&UEEDU18609002039&0 [Sun Aug 25 15:25:20 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : Linux File-CD Gadget USB Device
+    InstallDate     : Tue Jan 29 18:34:16 2019 UTC
+    FirstInstallDate: Tue Jan 29 18:34:16 2019 UTC
+
+Disk&Ven_&Prod_USB_DISK_2.0&Rev_PMAP [Wed Jun 26 19:34:59 2019]
+  S/N: 070B5C14F36E9259&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : USB DISK 2.0 USB Device
+    InstallDate     : Mon Jan 16 13:21:26 2017 UTC
+    FirstInstallDate: Mon Jan 16 13:21:26 2017 UTC
+
+Disk&Ven_&Prod_USB_DISK_Pro&Rev_PMAP [Wed Jun 26 19:34:59 2019]
+  S/N: 07074B3DA57F6581&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : USB DISK Pro USB Device
+    InstallDate     : Thu Dec  8 07:25:24 2016 UTC
+    FirstInstallDate: Thu Dec  8 07:25:24 2016 UTC
+
+Disk&Ven_&Prod_VirtualDisk&Rev_ [Wed Jun 26 19:34:59 2019]
+  S/N: 000000123ADB&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : VirtualDisk USB Device
+    InstallDate     : Sat Jun  1 16:27:16 2019 UTC
+    FirstInstallDate: Sat Jun  1 16:27:16 2019 UTC
+
+Disk&Ven_ASMT&Prod_2115&Rev_0 [Wed Jun 26 19:34:59 2019]
+  S/N: 00000000000000000000&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : ASMT 2115 USB Device
+    InstallDate     : Tue Mar  7 10:19:52 2017 UTC
+    FirstInstallDate: Tue Mar  7 10:19:52 2017 UTC
+
+Disk&Ven_Corsair&Prod_Slider_3.0&Rev_PMAP [Wed Jun 26 19:34:59 2019]
+  S/N: 07083A2177944E32&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : Corsair Slider 3.0 USB Device
+    InstallDate     : Thu May 18 12:11:27 2017 UTC
+    FirstInstallDate: Thu May 18 12:11:27 2017 UTC
+
+Disk&Ven_Flash&Prod_USB_Disk&Rev_2.E0 [Wed Jun 26 19:34:59 2019]
+  S/N: 3727027F54A2869129030&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : Flash USB Disk USB Device
+    InstallDate     : Fri Mar  3 10:06:01 2017 UTC
+    FirstInstallDate: Fri Mar  3 10:06:01 2017 UTC
+
+Disk&Ven_General&Prod_UDisk&Rev_5.00 [Wed Jun 26 19:34:59 2019]
+  S/N: 6&3730fd08&0&_&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : General UDisk USB Device
+    InstallDate     : Wed Aug  2 20:52:53 2017 UTC
+    FirstInstallDate: Wed Aug  2 20:52:53 2017 UTC
+
+Disk&Ven_General&Prod_USB_Flash_Disk&Rev_1.00 [Wed Jun 26 19:34:59 2019]
+  S/N: 041501000011E306&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : General USB Flash Disk USB Device
+    InstallDate     : Wed Dec 20 16:28:40 2017 UTC
+    FirstInstallDate: Wed Dec 20 16:28:40 2017 UTC
+
+Disk&Ven_General&Prod_USB_Flash_Disk&Rev_1100 [Wed Jun 26 19:34:59 2019]
+  S/N: 04R28G7JUYFW6BAU&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : General USB Flash Disk USB Device
+    InstallDate     : Wed Apr 12 12:03:33 2017 UTC
+    FirstInstallDate: Wed Apr 12 12:03:33 2017 UTC
+  S/N: 2809120000006891&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : General USB Flash Disk USB Device
+    InstallDate     : Sat Jun 30 07:51:23 2018 UTC
+    FirstInstallDate: Sat Jun 30 07:51:23 2018 UTC
+
+Disk&Ven_Generic&Prod_Flash_Disk&Rev_8.00 [Wed Jun 26 19:34:59 2019]
+  S/N: JDAE1007071042191872&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : Generic Flash Disk USB Device
+    InstallDate     : Wed Feb 15 13:50:41 2017 UTC
+    FirstInstallDate: Wed Feb 15 13:50:41 2017 UTC
+
+Disk&Ven_Generic&Prod_Flash_Disk&Rev_8.07 [Wed Jun 26 19:34:59 2019]
+  S/N: 02E2BD1A&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : Generic Flash Disk USB Device
+    InstallDate     : Wed Apr 12 12:20:22 2017 UTC
+    FirstInstallDate: Wed Apr 12 12:20:22 2017 UTC
+  S/N: 36A6ECAA&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : Generic Flash Disk USB Device
+    InstallDate     : Sat Dec 23 21:05:47 2017 UTC
+    FirstInstallDate: Sat Dec 23 21:05:47 2017 UTC
+  S/N: 5C5FF4CE&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : Generic Flash Disk USB Device
+    InstallDate     : Thu Jan 18 14:50:52 2018 UTC
+    FirstInstallDate: Thu Jan 18 14:50:52 2018 UTC
+  S/N: C176480C&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : Generic Flash Disk USB Device
+    InstallDate     : Tue May 14 08:07:32 2019 UTC
+    FirstInstallDate: Tue May 14 08:07:32 2019 UTC
+
+Disk&Ven_JetFlash&Prod_Transcend_16GB&Rev_1100 [Wed Jun 26 19:34:59 2019]
+  S/N: 17GIWK3QFAF50DSD&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : JetFlash Transcend 16GB USB Device
+    InstallDate     : Mon Oct  9 08:42:44 2017 UTC
+    FirstInstallDate: Mon Oct  9 08:42:44 2017 UTC
+
+Disk&Ven_JetFlash&Prod_Transcend_32GB&Rev_1100 [Wed Jun 26 19:34:59 2019]
+  S/N: 45GLDNAFYGMY7MW5&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : JetFlash Transcend 32GB
+    InstallDate     : Wed Oct 25 08:30:17 2017 UTC
+    FirstInstallDate: Wed Oct 25 08:30:17 2017 UTC
+
+Disk&Ven_Kingston&Prod_DataTraveler_2.0&Rev_PMAP [Wed Jun 26 19:34:59 2019]
+  S/N: B8AEEDBAF20EB071793E7BF2&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : Kingston DataTraveler 2.0 USB Device
+    InstallDate     : Mon Jan  9 09:17:10 2017 UTC
+    FirstInstallDate: Mon Jan  9 09:17:10 2017 UTC
+  S/N: C86000BDB740EF709A2705AA&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : Kingston DataTraveler 2.0 USB Device
+    InstallDate     : Wed Jan 17 09:37:19 2018 UTC
+    FirstInstallDate: Wed Jan 17 09:37:19 2018 UTC
+
+Disk&Ven_Kingston&Prod_DataTraveler_3.0&Rev_PMAP [Wed Jun 26 19:34:59 2019]
+  S/N: 08606E6D4162B021382A06BA&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : Kingston DataTraveler 3.0 USB Device
+    InstallDate     : Wed Apr 12 14:13:44 2017 UTC
+    FirstInstallDate: Wed Apr 12 14:13:44 2017 UTC
+
+Disk&Ven_Kingston&Prod_DataTraveler_G2&Rev_PMAP [Wed Jun 26 19:34:59 2019]
+  S/N: 0014780C7D7AB990257D0002&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : Kingston DataTraveler G2 USB Device
+    InstallDate     : Fri May 19 06:26:19 2017 UTC
+    FirstInstallDate: Fri May 19 06:26:19 2017 UTC
+
+Disk&Ven_Kingston&Prod_HyperX_Savage&Rev_PMAP [Wed Jun 26 19:34:59 2019]
+  S/N: 0018F30BFEC4E0A0E1EB2DAB&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : Kingston HyperX Savage USB Device
+    InstallDate     : Tue Jan 16 09:28:56 2018 UTC
+    FirstInstallDate: Tue Jan 16 09:28:56 2018 UTC
+
+Disk&Ven_Lexar&Prod_USB_Flash_Drive&Rev_1100 [Wed Jun 26 19:34:59 2019]
+  S/N: AA84OH43BX9SNZAM&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : Lexar USB Flash Drive USB Device
+    InstallDate     : Sat Jun 30 07:48:48 2018 UTC
+    FirstInstallDate: Sat Jun 30 07:48:48 2018 UTC
+
+Disk&Ven_Lexar&Prod_USB_Flash_Drive&Rev_8.07 [Wed Jun 26 19:34:59 2019]
+  S/N: 201107191820515155A0&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : Lexar USB Flash Drive USB Device
+    InstallDate     : Thu Nov 24 12:21:50 2016 UTC
+    FirstInstallDate: Thu Nov 24 12:21:50 2016 UTC
+
+Disk&Ven_LGE&Prod_Mass_storage&Rev_0000 [Wed Jun 26 19:34:59 2019]
+  S/N: 7&155ecefc&0&0123456789ABCDEF&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : LGE Mass storage USB Device
+    InstallDate     : Fri Dec 16 19:16:31 2016 UTC
+    FirstInstallDate: Fri Dec 16 19:16:31 2016 UTC
+  S/N: LGOTMSb51c448&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : LGE Mass storage USB Device
+    InstallDate     : Fri Dec 16 19:02:38 2016 UTC
+    FirstInstallDate: Fri Dec 16 19:02:38 2016 UTC
+
+Disk&Ven_Samsung&Prod_Flash_Drive&Rev_1100 [Wed Jun 26 19:34:59 2019]
+  S/N: 0354615120001415&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : Samsung Flash Drive USB Device
+    InstallDate     : Wed Oct 25 08:13:00 2017 UTC
+    FirstInstallDate: Wed Oct 25 08:13:00 2017 UTC
+
+Disk&Ven_Samsung&Prod_M3_Portable&Rev_1306 [Wed Jun 26 19:34:59 2019]
+  S/N: C0747DFB0B0000B5&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : Samsung M3 Portable USB Device
+    InstallDate     : Mon Jul 23 15:04:33 2018 UTC
+    FirstInstallDate: Mon Jul 23 15:04:33 2018 UTC
+
+Disk&Ven_Samsung&Prod_Mighty_Drive&Rev_PMAP [Wed Jun 26 19:34:59 2019]
+  S/N: 07480A8B0038&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : Samsung Mighty Drive USB Device
+    InstallDate     : Fri Dec  2 16:00:32 2016 UTC
+    FirstInstallDate: Fri Dec  2 16:00:32 2016 UTC
+
+Disk&Ven_SanDisk&Prod_Cruzer_Blade&Rev_1.26 [Wed Jun 26 19:34:59 2019]
+  S/N: 4C532000020824109454&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : SanDisk Cruzer Blade USB Device
+    InstallDate     : Tue Nov 22 14:09:14 2016 UTC
+    FirstInstallDate: Tue Nov 22 14:09:14 2016 UTC
+
+Disk&Ven_SanDisk&Prod_Cruzer_Edge&Rev_1.26 [Wed Jun 26 19:34:59 2019]
+  S/N: 20051738931D7EB191C7&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : SanDisk Cruzer Edge USB Device
+    InstallDate     : Tue Nov 22 14:05:33 2016 UTC
+    FirstInstallDate: Tue Nov 22 14:05:33 2016 UTC
+
+Disk&Ven_SanDisk&Prod_Cruzer_Switch&Rev_1.20 [Wed Jun 26 19:34:59 2019]
+  S/N: 4C532000040825103315&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : SanDisk Cruzer Switch USB Device
+    InstallDate     : Fri May 11 11:13:41 2018 UTC
+    FirstInstallDate: Fri May 11 11:13:41 2018 UTC
+
+Disk&Ven_SanDisk&Prod_Cruzer_Switch&Rev_1.26 [Wed Jun 26 19:34:59 2019]
+  S/N: 4C530200421215110083&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : SanDisk Cruzer Switch USB Device
+    InstallDate     : Fri Apr 14 13:54:49 2017 UTC
+    FirstInstallDate: Fri Apr 14 13:54:49 2017 UTC
+
+Disk&Ven_SanDisk&Prod_Ultra_Fit&Rev_1.00 [Wed Jun 26 19:34:59 2019]
+  S/N: 4C530001071214101491&0 [Mon Aug 26 08:44:34 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : SanDisk Ultra Fit USB Device
+    InstallDate     : Mon Mar  4 10:28:59 2019 UTC
+    FirstInstallDate: Mon Mar  4 10:28:59 2019 UTC
+
+Disk&Ven_Seagate&Prod_Expansion&Rev_0707 [Wed Jun 26 19:34:59 2019]
+  S/N: NA8D9YFR&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : Seagate Expansion USB Device
+    InstallDate     : Thu Mar 28 13:35:25 2019 UTC
+    FirstInstallDate: Thu Mar 28 13:35:25 2019 UTC
+
+Disk&Ven_ST500LM0&Prod_12_HN-M500MBB&Rev_ [Wed Jun 26 19:34:59 2019]
+  S/N: 279FC312353F&0 [Mon Aug 26 07:45:37 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : ST500LM0 12 HN-M500MBB USB Device
+    InstallDate     : Tue Nov 22 14:05:34 2016 UTC
+    FirstInstallDate: Tue Nov 22 14:05:34 2016 UTC
+
+Disk&Ven_ST500LT0&Prod_12-1DG142&Rev_0 [Wed Jun 26 19:34:59 2019]
+  S/N: WD-WXE1E14MVJ21&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : ST500LT0 12-1DG142 USB Device
+    InstallDate     : Thu Jan 25 13:40:15 2018 UTC
+    FirstInstallDate: Thu Jan 25 13:40:15 2018 UTC
+
+Disk&Ven_ST500LT0&Prod_12-1DG142&Rev_1002 [Wed Jun 26 19:34:59 2019]
+  S/N: 000000123ADB&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : ST500LT0 12-1DG142 USB Device
+    InstallDate     : Sat Jun  1 16:27:31 2019 UTC
+    FirstInstallDate: Sat Jun  1 16:27:31 2019 UTC
+
+Disk&Ven_ST950042&Prod_0AS&Rev_0 [Wed Jun 26 19:34:59 2019]
+  S/N: WD-WXE1E14MVJ21&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : ST950042 0AS USB Device
+    InstallDate     : Sat Dec 23 23:46:05 2017 UTC
+    FirstInstallDate: Sat Dec 23 23:46:05 2017 UTC
+
+Disk&Ven_StoreJet&Prod_Transcend&Rev_0 [Wed Jun 26 19:34:59 2019]
+  S/N: _____WD-WXH1E26C2LFT&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : StoreJet Transcend USB Device
+    InstallDate     : Mon Jan 15 14:36:38 2018 UTC
+    FirstInstallDate: Mon Jan 15 14:36:38 2018 UTC
+
+Disk&Ven_USB&Prod_DISK_2.0&Rev_1100 [Wed Jun 26 19:34:59 2019]
+  S/N: 038611072407130075000145&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : USB DISK 2.0 USB Device
+    InstallDate     : Wed Oct 25 07:16:47 2017 UTC
+    FirstInstallDate: Wed Oct 25 07:16:47 2017 UTC
+
+Disk&Ven_USB_Mass&Prod_Storage_Device&Rev__ [Wed Jun 26 19:34:59 2019]
+  S/N: 812320090519&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : USB Mass Storage Device USB Device
+    InstallDate     : Mon Feb 18 09:13:33 2019 UTC
+    FirstInstallDate: Mon Feb 18 09:13:33 2019 UTC
+
+Disk&Ven_VendorCo&Prod_ProductCode&Rev_2.00 [Wed Jun 26 19:34:59 2019]
+  S/N: 920708616D168926287&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : VendorCo ProductCode USB Device
+    InstallDate     : Tue Aug 28 07:17:41 2018 UTC
+    FirstInstallDate: Tue Aug 28 07:17:41 2018 UTC
+
+Disk&Ven_WD&Prod_Elements_1048&Rev_1022 [Wed Jun 26 19:34:59 2019]
+  S/N: 575834314138333436353337&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : WD Elements 1048 USB Device
+    InstallDate     : Fri May 19 17:53:45 2017 UTC
+    FirstInstallDate: Fri May 19 17:53:45 2017 UTC
+  S/N: 5758413145363346504A5731&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : WD Elements 1048 USB Device
+    InstallDate     : Fri May 19 17:57:29 2017 UTC
+    FirstInstallDate: Fri May 19 17:57:29 2017 UTC
+
+Disk&Ven_WD&Prod_Elements_1078&Rev_1065 [Wed Jun 26 19:34:59 2019]
+  S/N: 57584C31453834305A4B5759&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : WD Elements 1078 USB Device
+    InstallDate     : Mon Oct  9 07:34:21 2017 UTC
+    FirstInstallDate: Mon Oct  9 07:34:21 2017 UTC
+
+Disk&Ven_WD&Prod_My_Passport_0827&Rev_1012 [Wed Jun 26 19:34:59 2019]
+  S/N: 575832314141353255524532&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : WD My Passport 0827 USB Device
+    InstallDate     : Mon Jan 15 15:20:32 2018 UTC
+    FirstInstallDate: Mon Jan 15 15:20:32 2018 UTC
+
+Disk&Ven_WD&Prod_My_Passport_082A&Rev_1012 [Wed Jun 26 19:34:59 2019]
+  S/N: 57583731413734314B523556&0 [Wed Jun 26 19:34:59 2019]
+  Device Parameters LastWrite: [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    FriendlyName    : WD My Passport 082A USB Device
+    InstallDate     : Fri Jan 13 10:10:22 2017 UTC
+    FirstInstallDate: Fri Jan 13 10:10:22 2017 UTC
+
+Other&Ven_WD&Prod_SES_Device&Rev_1012 [Wed Jun 26 19:34:59 2019]
+  S/N: 575832314141353255524532&1 [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+    InstallDate     : Mon Jan 15 15:20:49 2018 UTC
+    FirstInstallDate: Mon Jan 15 15:20:49 2018 UTC
+  S/N: 57583731413734314B523556&1 [Wed Jun 26 19:34:59 2019]
+  LogConf LastWrite          : [Wed Jun 26 19:34:59 2019]
+  Properties LastWrite       : [Wed Jun 26 19:34:59 2019]
+
