@@ -17,9 +17,12 @@ print("-------------USBSTOR-----------")
 print("FORENSIC de l'historique des peripheriques USB")
 print("Version 1.0, ATK \n\n")
 
-reg = RegistryHive('SYSTEM')
+reg = RegistryHive('system')
 
 #for entry in reg.recurse_subkeys(as_json=True):
 #    print(entry)
+#for sk in reg.get_key('CurrentControlSet').iter_subkeys():
+#    print(sk.name, convert_wintime(sk.header.last_modified).isoformat())
 
-reg.get_key('HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Enum\\USBStor').get_values(as_json=True)
+for entry in reg.get_key('CurrentControlSet\\Enum\\USBStor').get_values(as_json=True):
+    print(entry)
