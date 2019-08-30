@@ -1,12 +1,11 @@
 import logbook
 import attr
-
 from regipy.exceptions import RegistryValueNotFoundException
 from regipy.hive_types import SYSTEM_HIVE_TYPE
 from regipy.plugins.plugin import Plugin
 from regipy.utils import convert_wintime
 
-logger = logbook.Logger(__name__)
+#logger = logbook.Logger(__name__)
 
 COMPUTER_NAME_PATH = r'Control\ComputerName\ComputerName'
 
