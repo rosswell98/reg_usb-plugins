@@ -1,0 +1,2 @@
+# Python plugin MountedPoint2
+
