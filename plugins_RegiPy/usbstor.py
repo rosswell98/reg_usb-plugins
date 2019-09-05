@@ -1,10 +1,3 @@
-import logbook
-
-from regipy.hive_types import SYSTEM_HIVE_TYPE
-from regipy.plugins.plugin import Plugin
-from regipy.utils import get_subkey_values_from_list
-
-#logger = logbook.Logger(__name__)
 """
 --------------------RESULTAT ATTENDU-------------------------
 
@@ -18,14 +11,18 @@ Disk&Ven_JetFlash&Prod_Transcend_16GB&Rev_1100 [Wed Jun 26 19:34:59 2019]
     FirstInstallDate: Mon Oct  9 08:42:44 2017 UTC
     """
 
-class TemplatePlugin(Plugin):
-    NAME = 'usbstor'
-    DESCRIPTION = 'Enumere les connexions USB'
+from regipy.registry import RegistryHive
 
-    def can_run(self):
-        # TODO: Choose the relevant condition - to determine if the plugin is relevant for the given hive
-        return self.registry_hive.hive_type == SYSTEM_HIVE_TYPE
+print("-------------USBSTOR-----------")
+print("FORENSIC de l'historique des peripheriques USB")
+print("Version 1.0, ATK \n\n")
 
-    def run(self):
-        # TODO: Return the relevant values
-        raise NotImplementedError
+reg = RegistryHive('system')
+
+#for entry in reg.recurse_subkeys(as_json=True):
+#    print(entry)
+#for sk in reg.get_key('CurrentControlSet').iter_subkeys():
+#    print(sk.name, convert_wintime(sk.header.last_modified).isoformat())
+
+for entry in reg.get_key('CurrentControlSet\\Enum\\USBStor').get_values(as_json=True):
+    print(entry)
