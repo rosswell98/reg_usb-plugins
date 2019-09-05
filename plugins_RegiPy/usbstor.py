@@ -24,5 +24,5 @@ reg = RegistryHive('system')
 #for sk in reg.get_key('CurrentControlSet').iter_subkeys():
 #    print(sk.name, convert_wintime(sk.header.last_modified).isoformat())
 
-for entry in reg.get_key('CurrentControlSet\\Enum\\USBStor').get_values(as_json=True):
+for entry in reg.get_key('\\Enum\\USBStor').get_values(as_json=True):
     print(entry)
